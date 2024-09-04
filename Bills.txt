@@ -1,0 +1,3 @@
+Deposit: 550 Transection: Bill payed    Deposit: 450 Bank balance: 9550
+ Transection: Bill payed    Deposit: 4589 Bank balance: 5411
+ Transection: Bill payed    Deposit: 543 Bank balance: 9457
